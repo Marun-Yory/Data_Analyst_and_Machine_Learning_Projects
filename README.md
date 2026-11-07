@@ -35,11 +35,17 @@ Techniques: EDA, Data Cleaning, Feature Engineering, Statistical Analysis, Predi
 
 ### Project Workflow
 1.Data Understanding
+
 2.Data Cleaning and Preprocessing
+
 3.Exploratory Data Analysis (EDA)
+
 4.Data Visualization and Insights
+
 5.Feature Engineering and Selection
+
 6.Machine Learning Model Development
+
 7.Model Evaluation and Optimization
 
 ### Objectives
