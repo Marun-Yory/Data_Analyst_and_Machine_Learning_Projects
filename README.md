@@ -22,19 +22,25 @@ The projects focus on transforming raw data into meaningful insights and develop
 
 ### Skills & Technologies
 Programming: Python
+
 Data Analysis: Pandas, NumPy
+
 Data Visualization: Matplotlib, Seaborn
+
 Machine Learning: Scikit-learn
+
 Tools: Jupyter Notebook, Git, GitHub
+
 Techniques: EDA, Data Cleaning, Feature Engineering, Statistical Analysis, Predictive Modeling, Model Evaluation
+
 ### Project Workflow
-Data Understanding
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization and Insights
-Feature Engineering and Selection
-Machine Learning Model Development
-Model Evaluation and Optimization
+1.Data Understanding
+2.Data Cleaning and Preprocessing
+3.Exploratory Data Analysis (EDA)
+4.Data Visualization and Insights
+5.Feature Engineering and Selection
+6.Machine Learning Model Development
+7.Model Evaluation and Optimization
 
 ### Objectives
 Develop practical data analytics skills.
