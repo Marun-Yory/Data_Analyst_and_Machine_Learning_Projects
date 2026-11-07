@@ -8,13 +8,18 @@ This repository showcases my practical skills in data analysis, data visualizati
 The projects focus on transforming raw data into meaningful insights and developing predictive models to solve business and analytical problems.
 
 ### Projects
-####	Project	Main Focus
-1	Diabetes & Lifestyle Analysis	Healthcare Analytics & Prediction
-2	Global Climate & Energy Analysis	Environmental & Energy Analytics
-3	Oil Sales Analysis	Sales Performance & Forecasting
-4	AI Impact on Jobs 2030	AI & Automation Risk Prediction
-5	Financial Risk & Loan Approval	Financial Analytics & Classification
-6	Transportation & Traffic Analysis	Traffic Safety & Accident Prediction
+1.	Diabetes & Lifestyle Analysis
+
+2.	Global Climate & Energy Analysis
+
+3.	Oil Sales Analysis
+
+4.	AI Impact on Jobs 2030
+
+5.	Financial Risk
+
+6.	Transportation & Traffic Analysis
+
 ### Skills & Technologies
 Programming: Python
 Data Analysis: Pandas, NumPy
