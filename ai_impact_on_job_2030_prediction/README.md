@@ -51,16 +51,4 @@ Identify important factors influencing job risk categories.
 Develop machine learning models to classify automation risk.
 Generate insights to support future career and workforce planning.
 
-
-### Installation
-bash
-git clone https://github.com/your-username/ai-impact-jobs-2030.git
-
-cd ai-impact-jobs-2030
-
-pip install -r requirements.txt
-
-jupyter notebook
-
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | AI & Future of Work
