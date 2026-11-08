@@ -51,15 +51,4 @@ Discover patterns in credit scores, income, and debt levels.
 Develop machine learning models for loan approval prediction.
 Generate actionable insights for financial risk assessment.
 
-### Installation
-bash
-git clone https://github.com/your-username/financial-risk-loan-approval.git
-
-cd financial-risk-loan-approval
-
-pip install -r requirements.txt
-
-jupyter notebook
-
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | Financial Risk Analysis
