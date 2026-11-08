@@ -50,15 +50,4 @@ Understand relationships between renewable energy and environmental indicators.
 Predict energy consumption or CO₂ emissions.
 Generate meaningful insights to support environmental and energy decision-making.
 
-### Installation
-bash
-git clone https://github.com/your-username/global-climate-energy-analysis.git
-
-cd global-climate-energy-analysis
-
-pip install -r requirements.txt
-
-jupyter notebook
-
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | Climate Analytics | Energy Analytics
