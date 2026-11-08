@@ -57,18 +57,4 @@ Predict potential accident occurrences.
 Classify accident severity.
 Generate insights to support traffic safety and transportation planning.
 
-### Installation
-bash
-git clone https://github.com/your-username/transportation-traffic-analysis.git
-
-cd transportation-traffic-analysis
-
-pip install -r requirements.txt
-
-jupyter notebook
-
-### Disclaimer
-
-This project uses synthetic transportation data for educational and research purposes. Model predictions do not represent verified real-world accident risks.
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | Transportation Analytics | Traffic Safety
