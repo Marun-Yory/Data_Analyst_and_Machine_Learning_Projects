@@ -54,12 +54,4 @@ Identify key factors influencing sales revenue.
 Predict future sales and product demand.
 Generate actionable insights for business decision-making.
 
-### Installation
-bash
-git clone https://github.com/your-username/oil-sales-analysis.git
-
-cd oil-sales-analysis
-
-pip install -r requirements.txt
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | Sales Analytics
