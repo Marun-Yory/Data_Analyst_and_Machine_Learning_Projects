@@ -50,15 +50,4 @@ Discover meaningful patterns through data visualization.
 Develop machine learning models for diabetes classification.
 Provide data-driven insights to support diabetes risk awareness.
 
-### Installation
-bash
-git clone https://github.com/your-username/diabetes-lifestyle-analysis.git
-
-cd diabetes-lifestyle-analysis
-
-pip install -r requirements.txt
-
-jupyter notebook
-
-
 Project Category: Data Analytics | Exploratory Data Analysis | Machine Learning | Healthcare Analytics
