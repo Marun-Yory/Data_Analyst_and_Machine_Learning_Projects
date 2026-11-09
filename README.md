@@ -56,5 +56,4 @@ Build predictive models and evaluate their performance.
 Create data-driven solutions to support decision-making.
 
 Thank you for visiting my repository!
-# Data_Analyst_and_Machine_Learning_Projects
 
